@@ -1,6 +1,10 @@
 [
     {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/shouryakhare/.android/build-cache/e5085c9978b5a1b8f914a64882cf6cfef775069e/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "source": "/Users/shouryakhare/.android/build-cache/c0f966b69d379fab5f4d77299ccfa41ebe5d7255/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/Everything/GeorgiaTech/2nd Year/cs2340/CS2340-Rat-App/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/samshapiro/.android/build-cache/857875aa628f13272ae89a0a20fd77c93cb54bd6/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

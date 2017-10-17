@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/samshapiro/Desktop/Everything/GeorgiaTech/2nd Year/cs2340/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/samshapiro/Desktop/Everything/GeorgiaTech/2nd Year/cs2340/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samshapiro/Desktop/Everything/GeorgiaTech/2nd Year/cs2340/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/samshapiro/Desktop/Everything/GeorgiaTech/2nd Year/cs2340/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/shouryakhare/Desktop/repositories/CS2340-Rat-App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
